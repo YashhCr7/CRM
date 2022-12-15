@@ -1,0 +1,51 @@
+.body {
+  background-color: gainsboro;
+}
+.container {
+  margin-top: 70px;
+  width: 700px;
+}
+.card {
+  margin-left: 200px;
+  justify-content: center;
+  margin: 0px;
+}
+.btn {
+  width: 100%;
+  background-color: #0313fc;
+}
+.form-row {
+  margin-top: 40px;
+}
+.form-group input {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: #ccc;
+}
+.form-group input:hover {
+  border-color: #555459;
+}
+#inputState {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: #ccc;
+}
+.label {
+  float: left;
+  color: #555459;
+  font-size: 18px;
+  font-weight: bold;
+}
+.recaptcha {
+  justify-content: center;
+  text-align: center;
+  height: 100px;
+}
+.Registration-form {
+  height: 770px;
+  padding: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.footer {
+  font-size: 20px;
+}

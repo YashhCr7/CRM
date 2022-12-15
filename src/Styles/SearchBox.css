@@ -1,0 +1,49 @@
+#searchArea {
+  background-color: white;
+  position: fixed;
+  bottom: 12;
+  border: 0.1px solid #f1f1f1;
+  z-index: 9;
+}
+#popUpLinks {
+  width: 15rem;
+}
+#deal {
+  display: inline-block;
+  width: 3rem;
+}
+
+#searchTypes :hover {
+  border-bottom: 3px solid #0275d8;
+}
+#searchTypes {
+  border-bottom: 1px solid black;
+}
+#people :hover {
+  padding: 0;
+  border: none;
+  background: none;
+}
+#organization :hover {
+  padding: 0;
+  border: none;
+  background: none;
+  /* border-bottom: 2px solid #0275d8; */
+}
+#deal :hover {
+  padding: 0;
+  border: none;
+  background: none;
+}
+#searchDropDown :hover {
+  background-color: #0275d8;
+}
+#All :hover {
+  padding: 0;
+  border: none;
+  background: none;
+}
+#searchTypes {
+  margin-top: 0px;
+  width: 25rem;
+}
